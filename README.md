@@ -10,7 +10,7 @@ SD Card burning
 
 connect kit
 
-![image](https://github.com/user-attachments/assets/e75c133a-7c3c-4095-b74f-b19dd85c41f6)
+<img width="776" height="662" alt="connect kit" src="https://github.com/user-attachments/assets/7d7daf5a-2f19-442d-af81-887b5f8d36d0" />
 
 ![image](https://github.com/user-attachments/assets/f70de0af-e02a-4a33-b48f-33d9853de061)
 
@@ -23,5 +23,6 @@ open terminal
 
 using USB-Camera
 
-![image](https://github.com/user-attachments/assets/aef4612e-1f8f-469c-a839-b334f1b7d3e3)
+<img width="775" height="733" alt="image" src="https://github.com/user-attachments/assets/53fb43d8-0a5b-4bd1-9639-a6616b9a1fcb" />
+
 
